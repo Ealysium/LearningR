@@ -23,4 +23,3 @@ missing <- setdiff(requirements,
 if (length(missing) != 0) {
   install.packages(missing)
 }
-#caralho
